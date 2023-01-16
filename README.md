@@ -22,7 +22,7 @@
 <p>You will also need to create an account with Snipcart and Contentful to use the payment processing and content management features.</p>
 <p>Once you have the necessary software and accounts set up, you can clone the repository and install the dependencies:</p>
 <code>
-git clone https://github.com/&lt;your-username&gt;/coffee-shop-website.git<br>
+git clone https://github.com/SamirAhma/coffee-shop-website.git<br>
 cd coffee-shop-website<br>
 npm install</code>
 <p>Then, you can start the development server:</p>
